@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://drive.google.com/file/d/1NPet9bCUbsfywEHFqPUWZW6eynPcBDCv/view?usp=sharing" width="100%">
+<img src="https://github.com/Rahulbui555/Weather-App/blob/main/weatherapp.png" width="100%">
 </p>
 
 ## Setup
